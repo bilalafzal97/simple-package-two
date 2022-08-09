@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "displayName": "Simple Package Two",
   "description": "Testing Simple Package Two",
-  "unity": "2021.3.7f1",
+  "unity": "2021.3",
   "dependencies": {
     
   },
