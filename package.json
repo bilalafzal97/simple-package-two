@@ -1,0 +1,20 @@
+{
+  "name": "com.test.simple-package-two",
+  "version": "1.0.0",
+  "displayName": "Simple Package Two",
+  "description": "Testing Simple Package Two",
+  "unity": "2021.3.7f1",
+  "dependencies": {
+    
+  },
+  "keywords": [
+    "Simple",
+    "Package",
+    "Two"
+  ],
+  "author": {
+    "name": "Bilal Afzal",
+    "email": "bilalafzal245256@gmail.com",
+    "url": "https://test.com"
+  }
+}
